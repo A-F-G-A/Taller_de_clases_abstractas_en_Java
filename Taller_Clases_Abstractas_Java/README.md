@@ -1,8 +1,3 @@
 Aqui se encuentran los ejercicios :D
 
-
-  /\_/\ (
- ( ^.^ ) _)
-   "/ (
- ( | | )
-(__d b__)
+ฅ•ω•ฅ
