@@ -5,7 +5,7 @@ El objetivo principal es aplicar los principios de la **programación orientada 
 
 ---
 
-## 📚 Contenido del Proyecto
+##  Contenido del Proyecto
 
 El taller se organiza en varios ejercicios dentro del paquete `src`, cada uno demostrando un aspecto diferente del uso de clases abstractas.
 
@@ -26,7 +26,7 @@ El taller se organiza en varios ejercicios dentro del paquete `src`, cada uno de
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Lenguaje:** Java 17+
 - **Entorno de desarrollo:** Visual Studio Code / IntelliJ IDEA / Eclipse
@@ -34,7 +34,7 @@ El taller se organiza en varios ejercicios dentro del paquete `src`, cada uno de
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+##  Cómo Ejecutar el Proyecto
 
 1. Clona el repositorio:
    ```bash
